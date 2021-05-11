@@ -1,2 +1,2 @@
 # BnP1_termp
-2021-1 BnP term project repo
+This is 2021-1st semester _Bioinfo and Practice_ term project repo
